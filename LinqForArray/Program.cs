@@ -27,8 +27,8 @@ namespace LinqForArray
             return array.GetLength(0);
         }
 
-        public static IEnumerable<IEnumerable<T>> Select<T>(this T[,] array,
-                                Func<IEnumerable<T>, IEnumerable<T>> func)
+        public static IEnumerable<IEnumerable<R>> Select<T,R>(this T[,] array,
+                                Func<IEnumerable<T>, IEnumerable<R>> func)
         {
             int countRow = array.CountRow();
             int count = 0;
