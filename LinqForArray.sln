@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqForArray", "LinqForArray\LinqForArray.csproj", "{D76D6B61-49B5-48BA-B4A0-C51726AE618C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D76D6B61-49B5-48BA-B4A0-C51726AE618C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76D6B61-49B5-48BA-B4A0-C51726AE618C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76D6B61-49B5-48BA-B4A0-C51726AE618C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76D6B61-49B5-48BA-B4A0-C51726AE618C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B032113F-61C7-4A12-A137-01A6129B5AD0}
+	EndGlobalSection
+EndGlobal
